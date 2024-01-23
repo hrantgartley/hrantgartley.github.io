@@ -26,8 +26,8 @@ Hi, I'm Grant Hartley, an IT major passionate about the world of web development
 
 Feel free to reach out to me! You can connect with me via:
 
-- Email: [ghartley@una.edu]
-- LinkedIn: [https://www.linkedin.com/in/grant-hartley-50539a299/]
-- GitHub: [Your LinkedIn Profile]
+- [Email](ghartley@una.edu)
+- [LinkedIn](https://www.linkedin.com/in/grant-hartley-50539a299/)
+- [Github](https://github.com/hrantgartley/)
 
 Looking forward to connecting with you!
